@@ -31,7 +31,8 @@ export default function Header(){
             <Itens>JS</Itens>
             <Itens>React</Itens>
             <Itens>Node Js</Itens>
-            <Itens>SQL</Itens>
+            <Itens>SQL</Itens> 
+    
         </ItensPai>
         </Container3>
         <Container4>
@@ -42,6 +43,7 @@ export default function Header(){
                 <ItensEdu><strong>UFRN</strong><br/>2019 - 2020 <br/> <i> Monitora em projeto de extensão de inclusão digital para idosos </i></ItensEdu>
             </ItensPaiEdu>
         </Container4>
+
         
         </ContainerPai>
     )
