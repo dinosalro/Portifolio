@@ -14,8 +14,8 @@ export const Container1 = styled.section`
     justify-content: center;
     align-items: center;
     background-color: #302F3D;
-    width: 348px;
-    border-radius: 20px;
+    width: 18vw;
+    border-radius: 15px;
     padding:76px;
     padding-top: 32px;
     color: #837E9F;
@@ -30,8 +30,8 @@ display: flex;
 flex-direction: column;
 align-items: flex-start;
 background-color: #302F3D;
-width: 348px;
-border-radius: 20px;
+width: 18vw;
+border-radius: 15px;
 padding:30px;
 color: #837E9F; 
 margin-bottom : 10px ;
@@ -44,9 +44,9 @@ display: flex;
 flex-direction: column;
 align-items: center;
 background-color: #302F3D;
-width: 348px;
+width: 18vw;
 padding: 30px;
-border-radius: 20px;
+border-radius: 15px;
 padding-top: 32px;
 margin-bottom : 10px ;
 box-shadow: 2px 2px 2px 1px rgba(0, 0, 0, 0.2);
@@ -55,9 +55,9 @@ box-shadow: 2px 2px 2px 1px rgba(0, 0, 0, 0.2);
 
 export const Container4 = styled.section`
 background-color: #302F3D;
-width: 348px;
+width: 18vw;
 padding: 30px;
-border-radius: 20px;
+border-radius: 15px;
 padding-top: 32px;
 box-shadow: 2px 2px 2px 1px rgba(0, 0, 0, 0.2);
 `
